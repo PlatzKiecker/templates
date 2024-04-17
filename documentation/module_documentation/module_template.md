@@ -9,7 +9,7 @@ Brief explanation of the module
 3. This module reads .... (Optional)
 
   **Note:**
-  > Optional Notes go here
+  > Useful Notes go here
 
 - #### Example Usage/Config:
 
