@@ -18,4 +18,4 @@ Feel free to contribute to this repository by suggesting improvements to the doc
 
 ## License
 
-This repository is licensed under the [License Name](LICENSE).
+This repository is licensed under the [License](LICENSE).
