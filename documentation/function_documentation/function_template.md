@@ -1,4 +1,4 @@
-- #### **function/class_name**
+- #### **function/class name**
 
   Brief description of what the function does
 
