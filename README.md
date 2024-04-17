@@ -1,4 +1,4 @@
-# Tenplates
+# Templates
 
 This repository contains templates for documenting Python projects, modules, and functions.
 
