@@ -25,5 +25,3 @@ Brief explanation of the module
 - #### **Function/Class Name**
 	
 Brief explanation of the Function/Class
-
-Click here for Function/Class Template
