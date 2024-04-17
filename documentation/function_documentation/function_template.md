@@ -1,4 +1,4 @@
-- #### **function/class_name(arg1, arg2)**
+- #### **function/class_name**
 
   Brief description of what the function does
 
