@@ -17,19 +17,19 @@ Brief description of the project.
 
 ## Introduction
 
-Provide an overview of the project, its purpose, and any relevant background information.
+Provide an overview of the component, its purpose, and any relevant background information.
 
 ## Project Structure
 
-Describe the structure of the project, including directories, main files, and their purposes.
+Describe the structure of the component, including directories, main files, and their purposes.
 
 ## Installation
 
-Provide instructions on how to install the project, including any dependencies.
+Provide instructions on how to install the component, including any dependencies.
 
 ## Usage
 
-Explain how to use the project, including code examples and any necessary command-line interface (CLI) commands.
+Explain how to use the component, including code examples and any necessary command-line interface (CLI) commands.
 
 ## Configuration
 
@@ -37,23 +37,4 @@ Explain how the configuration works, including any configuration files and how u
 
 ## Modules
 
-List and describe the scripts or modules included in the project.
-
-### Module Name
-
-Description of what the module does.
-
-#### Function/Class Name
-
-Description of what the function/class does.
-
-- Parameters/Attributes: Description of the parameters/attributes.
-- Returns: Description of the return value (if applicable).
-
-## Contributing
-
-Provide guidelines for contributing to the project, including how to report issues, submit pull requests, and contribute code.
-
-## License
-
-Specify the license under which the project is distributed.
+List and describe the scripts or modules included in the component.
