@@ -1,11 +1,11 @@
-# [Project Name]
+# [Component Name]
 
 Brief description of the project.
 
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Project Structure](#project-structure)
+- [Component Structure](#project-structure)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Configuration](#configuration)
@@ -19,7 +19,7 @@ Brief description of the project.
 
 Provide an overview of the component, its purpose, and any relevant background information.
 
-## Project Structure
+## Component Structure
 
 Describe the structure of the component, including directories, main files, and their purposes.
 
