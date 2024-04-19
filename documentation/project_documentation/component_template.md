@@ -5,15 +5,11 @@ Brief description of the project.
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Component Structure](#project-structure)
+- [Component Structure](#component-structure)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Configuration](#configuration)
-- [Scripts/Modules](#scriptsmodules)
-  - [Script/Module Name](#scriptmodule-name)
-    - [Function/Class Name](#functionclass-name)
-- [Contributing](#contributing)
-- [License](#license)
+- [Scripts/Modules](#modules)
 
 ## Introduction
 
