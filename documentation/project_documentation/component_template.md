@@ -9,7 +9,7 @@ Brief description of the project.
 - [Installation](#installation)
 - [Usage](#usage)
 - [Configuration](#configuration)
-- [Scripts/Modules](#modules)
+- [Modules](#modules)
 
 ## Introduction
 
