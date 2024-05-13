@@ -25,15 +25,17 @@ Content-Type: application/json
 {
   "body_param_name": "value"
 }
+```
 
 **Example Response:**
+```http
 HTTP/1.1 HTTP_STATUS_CODE
 Content-Type: CONTENT_TYPE
 
 {
   "example": "response"
 }
-
- **Note:**
-  > Useful notes
-  > ...
+```
+**Note:**
+> Useful notes
+> ...
