@@ -7,6 +7,7 @@ This repository contains templates for documenting Python projects, modules, and
 - [Project Documentation Template](documentation/project_documentation/project_template.md)
 - [Module Documentation Template](documentation/module_documentation/module_template.md)
 - [Function Documentation Template](documentation/function_documentation/function_template.md)
+- [API Endpoint Documentation](documentation/api_documentation/api_template.md)
 
 ## Usage
 
