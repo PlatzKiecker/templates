@@ -6,15 +6,15 @@ Brief description of what the class does.
 **Attributes:**
 > - `attribute_name` (type): Brief description of the attribute.
 
-#### **method_name**
+#### **function_name**
 
-Brief description of what the method does.
+Brief description of what the function does.
 
 **Args:**
-> - `arg_name` (type, optional): Brief description of what arguments the method takes.
+> - `arg_name` (type, optional): Brief description of what arguments the function takes.
 
 **Returns:**
-> type and/or None: Brief description of what the method returns.
+> type and/or None: Brief description of what the function returns.
 
 **Note:**
 > Useful notes
@@ -22,4 +22,4 @@ Brief description of what the method does.
 
 **Example:**
 ```python
-modulename.ClassName().method_name(arg1, arg2)
+modulename.ClassName().function_name(arg1, arg2)
