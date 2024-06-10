@@ -1,4 +1,3 @@
-"""
 ### **ClassName**
 
 Brief description of what the class does.
